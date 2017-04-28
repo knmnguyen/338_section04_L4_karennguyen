@@ -1,0 +1,10 @@
+#if-box {
+  background-color: black;
+  width: 48%;
+  height: 60%;
+}
+
+.box-white {
+  background-color: white;
+  color: red;
+}
