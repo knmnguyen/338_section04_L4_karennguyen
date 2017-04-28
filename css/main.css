@@ -1,10 +1,31 @@
-#if-box {
+#if {
   background-color: black;
-  width: 48%;
-  height: 60%;
+  width: 400px;
+  margin: 0%;
+}
+
+.if-box {
+  background-color: black;
+  margin-left: -14px;
+  margin-bottom: -20px;
+}
+
+.annoying-white-text {
+  color: white;
+  font: Georgia, sans-serif;
+  font-size: 10pt;
+  position: relative;
+  top: -240px;
+  left: 300px;
 }
 
 .box-white {
   background-color: white;
   color: red;
+  margin-top: 50px;
+  width: 400px;
+}
+
+.info {
+  color: grey;
 }
